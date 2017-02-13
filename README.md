@@ -2,7 +2,7 @@
 
 ![alt text](documentation/logo.png?raw=true "logo")
 
-Micro Système d'exploitation pour Smartphone et implémentation des fonctionnalités principales d'un PDA en C++.
+Micro système d'exploitation pour Smartphone et implémentation des fonctionnalités principales d'un PDA en C++.
 
 Je vous conseille la lecture de la documentation pour plus de détails sur sa réalisation et son fonctionnement.
 
